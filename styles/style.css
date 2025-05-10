@@ -10,3 +10,9 @@ h2{
     text-decoration: underline;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.bike{
+    color: aquamarine;
+    display: block;
+    border: 2px solid black;
+    height: 50px;
+}
